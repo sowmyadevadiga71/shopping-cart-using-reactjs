@@ -6,7 +6,7 @@ This is a simple and functional shopping cart web application built with **React
 ## 🛠️ Tech Stack
 
 - **React.js** – Frontend framework
-- **JavaScript (ES6+)**
+- **JavaScript **
 - **CSS** – Styling
 - **VS Code** – Code editor
 
